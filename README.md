@@ -14,6 +14,7 @@ Raymond Ma
 | 1 | Raymond Ma     | @raymondma1     | 
 | 2 | David Lau      | @davidopluslau  |
 | 3 | Hyungkyu Chang | @hkchang89      |
+| 4 | Tim Hoang      | @timothyhoang   |
 
 http://www.stanford.edu/~mwaskom/software/seaborn/
 
